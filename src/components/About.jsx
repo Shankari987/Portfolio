@@ -7,7 +7,6 @@ export default function About() {
   <h2 className="text-3xl md:text-4xl font-bold text-teal-400 mb-6">
     About Me
   </h2>
-
   <p className="leading-relaxed text-gray-300 text-lg">
     I’m <span className="text-white font-semibold">Shankari</span>, a{" "}
     <span className="text-white font-semibold">
