@@ -7,7 +7,6 @@ import Experience from "./components/Experience";
 import Certifications from "./components/Certifications";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-
 export default function App() {
   return (
     <div className="antialiased bg-gradient-to-b from-slate-950 via-slate-900 to-black text-gray-200">
